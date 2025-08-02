@@ -5,11 +5,12 @@ h1{
 .mypic{
     float: left;
     margin: 5px;
-    height: 150px;
+    height: auto;
     width: auto;
 }
 
 .education{
     clear: left;
 }
+
 
